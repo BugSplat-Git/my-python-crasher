@@ -51,7 +51,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-5. Set the value of `database` to the name of your BugSplat database in [main.py](./main.py)
+5. Set the value of `database` to the name of your BugSplat database in [main.py](./main.py#L12)
 
 5. Run the [main.py](./main.py) script
 
